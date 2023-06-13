@@ -2,9 +2,7 @@ import discord
 import datetime as dt
 from keep_alive import keep_alive
 
-DISCORD_TOKEN = "MTExNTMwMDM2NjA2MjQ3MzI4Nw.G7NiD8.4brLVEDEeITf_eBFnghr7LHc9Mo8GuNzsbsHYs" # Change this
-
-
+DISCORD_TOKEN = "YOUR TOKEN"
 
 # Define required intents
 intents = discord.Intents.default()
